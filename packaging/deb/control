@@ -1,0 +1,10 @@
+Package: com.pageflip.shapka
+Name: Shapka
+Version: 1.0.0-stable
+Architecture: all
+Description: native 4pda forum client for jailbroken iOS 5-16 (armv7 + arm64)
+Maintainer: sqmrak
+Author: sqmrak
+Section: Social
+Priority: optional
+Depends: firmware (>= 5.0)
